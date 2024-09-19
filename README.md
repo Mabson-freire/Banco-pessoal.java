@@ -9,6 +9,8 @@ Este projeto, desenvolvido como parte do curso One Next Educartion, simula um ba
 * **Depósito de valores:** Adiciona um valor ao saldo existente.
 * **Saque de valores:** Permite retirar um da conta (implementação simplificada).
 
+![Texto alternativo](Projeto-banco-pessoal-–-Main.java-2024-09-19-11-41-52.gif)
+
 ### Pré-requisitos
 * **Java Development Kit (JDK):** Instale a versão mais recente do JDK em sua máquina.
 * **Editor de código:** Utilize um editor de sua preferência, como Visual Studio Code, IntelliJ IDEA ou Eclipse.
